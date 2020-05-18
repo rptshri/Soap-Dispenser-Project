@@ -1,0 +1,66 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub hand_sanitizer (7) to come 
+#
+newmtl foggy_plastic
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  1.0 1.0 1.0
+d  0.4
+Ns  5.0
+illum 2
+#
+newmtl label
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd hs_lbl.jpg
+#
+newmtl text
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+map_Kd hs_l.jpg
+map_d hs_lm.jpg
+#
+newmtl white
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl light_blue
+Ka  0.5 0.6 0.6
+Kd  0.5 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl dark_gray
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.5
+illum 2
+#
+newmtl clear_plastic
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  1.0 1.0 1.0
+d  -0.0
+Ns  5.0
+illum 2
+#
+# Multi/Sub hand_sanitizer done 
+#
+# EOF
